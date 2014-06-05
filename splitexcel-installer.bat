@@ -1,5 +1,5 @@
 @ECHO OFF
-mkdir -p C:\Progr\splitexcel
+mkdir C:\Progr\splitexcel
 copy splitexcel.vbs C:\Progr\splitexcel\
 
 reg add HKEY_CURRENT_USER\Software\Classes\Excel.Sheet.12\shell\split /ve /d "Split every sheet in a separate Excel file"
