@@ -1,5 +1,5 @@
 splitexcel
 ==========
 
-Crude Visual-Basic-Script tool for splitting each Excel sheet in a separate file.
+Crude Visual Basic script for splitting each Excel sheet in a separate file.
 Windows only.
